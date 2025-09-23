@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Rdrgz24. Sysadmin.
 - 👀 I’m interested on System Administration, SQL Databases, Python, cibersecurity...
 - 🌱 Learning new things every day.
-- Access to Website with Bootstrap: https://rdrgz24.github.io/Web_Bootstrap/
-- Access to XML - AJAX Website: https://rdrgz24.github.io/ProyectoXML/
